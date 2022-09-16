@@ -24,6 +24,8 @@
 */[Tt]rash
 */Logs/
 */.vs/
+*/postmaster_v03_BackUpThisFolder_ButDontShipItWithYourGame/
+*/postmaster_v012_BackUpThisFolder_ButDontShipItWithYourGame/
 *ExportedObj/
 .consulo/
 *.csproj
